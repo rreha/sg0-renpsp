@@ -1,4 +1,5 @@
 # Steins;Gate 0 RenPSP
+**THIS GAME IS AN UNOFFICIAL PORT OF THE STEINS;GATE 0 VISUAL NOVEL. ALL OF THE ASSETS INSIDE OF THE GAME ARE BELONGED TO 5PB.**
 ## Chapter Completion 
 **Prologue** : 100%</br>
 **Entropy Zero** : 0%</br>
@@ -15,3 +16,8 @@
 **Promised Rinascimento** : 0%</br>
 **Vega And Altair** : 0%</br>
 **Milky-way Crossing** : 0%</br>
+
+## Credits
+5pb for making the original game.
+PonpiK for helping me about the project.
+weetabix for the RenPSP (https://github.com/weetabix-su/renpsp-dev/).
