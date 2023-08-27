@@ -2,7 +2,7 @@
 **THIS GAME IS AN UNOFFICIAL PORT OF THE STEINS;GATE 0 VISUAL NOVEL. ALL OF THE ASSETS INSIDE OF THE GAME ARE BELONGED TO 5PB.**
 ## Chapter Completion 
 **Prologue** : 100%</br>
-**Entropy Zero** : 0%</br>
+**Entropy Zero** : 35%</br>
 **Closed Epigraph** : 0%</br>
 **A Stray Sheep** : 0%</br>
 **X-day Protocol** : 0%</br>
