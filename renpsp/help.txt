@@ -1,0 +1,31 @@
+
+STEINS;GATE RenPSP demo1
+
+CONTROLS:
+
+1. In-game Controls
+  Square      — toggle displaying text
+  Cross       — go to the next dialogue line
+  Triangle    — make a PNG screenshot
+  Circle      - toggle free memory display
+  L/R         - previous/next scene
+
+2. Menu Controls
+  Start       — toggle falling menu
+  Arrows      — change active menu item
+  Cross       — select a menu item
+
+3. Help Screen Controls
+  Arrows, L/R - change help page
+  Select      - return to the game
+
+----
+STEINS;GATE 0 developed by 5pb.
+RenPSP port made by by reha (github.com/rreha/sg0-renpsp).
+Credits to my friend PonpiK and weetabix for helping me about this project.
+
+This version (demo1) is made for the PSP Monthly Gamejam! #1 hosted by PSP Homebrew Server on itch.io.
+
+RenPSP Visual Novel Engine is created by lolbot, a member of IIchan.ru Eroge Team, June 2010.
+Slightly modified by reha.
+Special thanks to weetabix for engine reanimation.
