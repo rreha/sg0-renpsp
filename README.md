@@ -1,8 +1,6 @@
 # STEINS;GATE 0 RenPSP
-<p align="center">
-  <img src="./logo.png">
-</p>
-**THIS GAME IS AN UNOFFICIAL PORT OF THE STEINS;GATE 0 VISUAL NOVEL. ALL OF THE ASSETS INSIDE OF THE GAME ARE BELONGED TO 5PB.**
+<p align="center"><img src="./logo.png"> </p>
+**THIS GAME IS AN UNOFFICIAL PORT OF THE STEINS;GATE 0 VISUAL NOVEL. ALL OF THE ASSETS INSIDE OF THE GAME ARE BELONGED TO 5PB.**<br/>
 ## Chapter Completion 
 **Prologue** : 100%</br>
 **Entropy Zero** : 35%</br>
@@ -21,6 +19,6 @@
 **Milky-way Crossing** : 0%</br>
 
 ## Credits
-5pb for making the original game.
-PonpiK for helping me about the project.
-weetabix for the RenPSP (https://github.com/weetabix-su/renpsp-dev/).
+5pb for making the original game.<br/>
+PonpiK for helping me about the project.<br/>
+weetabix for the RenPSP (https://github.com/weetabix-su/renpsp-dev/).<br/>
