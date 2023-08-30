@@ -1,4 +1,7 @@
-# Steins;Gate 0 RenPSP
+# STEINS;GATE 0 RenPSP
+<p align="center">
+  <img src="./logo.png">
+</p>
 **THIS GAME IS AN UNOFFICIAL PORT OF THE STEINS;GATE 0 VISUAL NOVEL. ALL OF THE ASSETS INSIDE OF THE GAME ARE BELONGED TO 5PB.**
 ## Chapter Completion 
 **Prologue** : 100%</br>
